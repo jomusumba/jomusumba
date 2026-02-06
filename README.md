@@ -2,12 +2,12 @@
 
 Je suis un Développeur Desktop (Python), Mobile (Flutter), Chatbot et IA (ML), passionné par la création d'applications intelligentes et la gestion de communautés.
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 - 🏢 Je suis le CEO et Fondateur de [**EJYISOFT**](https://ejyisoft.onrender.com).
 - 🔭 Je travaille actuellement sur **BETAI**, une application mobile de prédiction de résultats de football basée sur l'IA.
 - 🌱 J'approfondis mes connaissances en IA (Machine Learning) et en développement de Chatbots.
-- 👯‍♀️ Je cherche à collaborer sur des projets open-source innovants, en particulier dans le domaine de l'IA et du mobile.
+- 👯‍♀️ Je suis surtout prêt à collaborer sur des projets open-source innovants, en particulier dans le domaine de l'IA et du mobile.
 - 💬 Demandez-moi à propos de Python, Flutter, Chatbots, Firebase, Supabase, MySQL, MongoDB et le Community Management.
 - 📫 Comment me joindre : [jmusumba103@gmail.com](mailto:jmusumba103@gmail.com)
 
@@ -21,13 +21,6 @@ Je suis un Développeur Desktop (Python), Mobile (Flutter), Chatbot et IA (ML), 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-## 📊 Mes Statistiques GitHub
-
-[![Statistiques GitHub de jomusumba](https://github-readme-stats.vercel.app/api?username=jomusumba&show_icons=true&theme=radical)](https://github.com/jomusumba)
-[![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=jomusumba&layout=compact&theme=radical)](https://github.com/jomusumba)
-
----
 
 <p align="center">
   <a href="https://github.com/jomusumba"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
