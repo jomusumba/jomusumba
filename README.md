@@ -14,7 +14,7 @@
 💼 **CEO & Founder** of [EJYISOFT](https://ejyisoft.onrender.com)  
 🌍 Based in **Lubumbashi, DR Congo**  
 💡 Passionate about **AI, ML, and innovative tech solutions**  
-📱 Community Manager for **Les Pépites de la RDC** YouTube channel
+📱 Community Manager for **AfroSoul Lab** YouTube channel
 
 ## 🛠️ Tech Stack
 
