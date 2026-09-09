@@ -27,13 +27,10 @@
 
 ### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-0173B3?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white)
 ![Customtkinter](https://img.shields.io/badge/Customtkinter-000000?style=for-the-badge&logo=customtkinter&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
 ![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=tkinter&logoColor=white)
 ![FastApi](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -47,7 +44,6 @@
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Botpress](https://img.shields.io/badge/Botpress-000000?style=for-the-badge&logo=botpress&logoColor=white)
 ![VoiceFlow](https://img.shields.io/badge/VoiceFlow-000000?style=for-the-badge&logo=voiceflow&logoColor=white)
@@ -84,45 +80,32 @@
 
 ## 🏆 Featured Projects
 
-### 🤖 BETAI
+### ⚽  BETAI
 AI-powered mobile application for football match predictions using Machine Learning
-- **Tech:** Flutter, Python, TensorFlow, Firebase
-- **Status:** 🚧 In Development
+- **Status:** 🛞  In Development
 
 ### 🏫 GSchool
 Open-source school management system for student enrollment and payment tracking
-- **Tech:** Python, MySQL
+- **Tech:** Python, SQLite, Supabase, SMTP
 - **Status:** ✅ Open Source
 
 ### 💬 UPLBOT
-Intelligent chatbot for Université Protestante de Lubumbashi
-- **Tech:** Python, NLP, AI
-- **Status:** ✅ Deployed
+Intelligent chatbot for Université Protestante de Lubumbashi (UPL). 
+- **Tech:** Python, Gemini, FastApi, Web Socket, Supabase
+- **Status:** ✅ Open Source
 
-### 📱 RDCDEAL
-Mobile marketplace app for buying and trading goods/services in DR Congo
-- **Tech:** Flutter, Firebase
-- **Status:** ✅ Deployed
+### 💎 NEXORA
+A social network that connects buyers and sellers of precious stones.
+- **Status:** 🛞  In development
 
-## 💼 Professional Experience
+### 🎥 JOYANN DOUBLING
+The idea is to work on dubbing movies with AI and have a better rendering than traditional dubbing.
+- **Status**  In development
 
-🏢 **CEO & Founder** - [EJYISOFT](https://ejyisoft.onrender.com) *(2025 - Present)*  
-<br>
-📺 **Community Manager** - [Les Pépites de la RDC](https://youtube.com/@pepiterdc?si=hmgoFa8UY8XOE89m) *(2023 - Present)*
-<br>
-📺 **Community Manager** - [AFRO-SOUL LAB](https://youtube.com/@afrosoulab?si=-3qxrhXD5-dlgABi)
-<br>
-📺 **Community Manager** - [SmartCode Community](https://facebook.com/smartcodecommunity) *(2025 - Present)*
-<br>
-💻 **Developer Intern** - DRHKAT *(Academic Stage BAC 1 and BAC 3)*
-<br>
-🏭 **Intern** - HABEB ENERGY *(Academic Stage BAC 2)*
-<br>
-📱 **Field Agent** - Vodacom RDC  
-<br>
-📊 **Data Entry Operator** - CENI RDC  
-<br>
-🤝 **Volunteer** - Amnesty International
+### 💻 ATDI  MANAGEMENT
+Management software for the NGO ATDI(Action pour le développement et le travail intégral). 
+-  **Status** ✅ Deployed
+
 
 ## 🎓 Certifications
 
@@ -130,6 +113,7 @@ Mobile marketplace app for buying and trading goods/services in DR Congo
 ✅ MySQL - Cursa  
 ✅ Microsoft Word - Cursa  
 ✅ "La tech c'est du concret" - Trace+
+✅ Flutter - Cursa
 
 ## 🌐 Connect with Me
 
@@ -137,11 +121,9 @@ Mobile marketplace app for buying and trading goods/services in DR Congo
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomusumba)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jomusumba)
-  [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jomusumba)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jomusumba1)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jomusumba)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jomusumba)
-  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jomusumba)
-  [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@jomusumba)
   
   **Website:** [jomusumba](https://jomusmumba.me)
   
@@ -175,7 +157,7 @@ Mobile marketplace app for buying and trading goods/services in DR Congo
   
   ![Profile Views](https://komarev.com/ghpvc/?username=jomusumba&color=00aaff&style=for-the-badge&label=PROFILE+VIEWS)
   
-  **Made with ❤️ and ☕ by Jonathan MUSUMBA**
+  **Made with ❤️ by Jonathan MUSUMBA**
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=100&section=footer)
   
