@@ -133,14 +133,6 @@ Management software for the NGO ATDI(Action pour le développement et le travail
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jomusumba&theme=tokyo-night&hide_border=true&area=true)
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
 ## 🏅 GitHub Trophies
 
 <div align="center">
