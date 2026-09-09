@@ -1,20 +1,24 @@
 # Hi there, I'm Jonathan MUSUMBA 👋
 
 <div align="center">
-  
-  ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=200&section=header&text=Jonathan%20MUSUMBA&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CEO%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50)
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=Desktop+Developer+(Python)+%F0%9F%90%8D;Mobile+Developer+(Flutter)+%F0%9F%93%B1;AI+%26+Machine+Learning+Specialist+%F0%9F%A4%96;Chatbot+Creator+%F0%9F%92%AC;CEO+%26+Founder+of+EJYISOFT+%F0%9F%9A%80)](https://git.io/typing-svg)
-  
+
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=220&section=header&text=Jonathan%20MUSUMBA&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Builder%20in%20AI%20%26%20Mobile&descAlignY=58&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00AAFF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Python+%7C+Flutter+%7C+AI%2FML+Enthusiast;Building+useful+products+for+real-world+problems)](https://git.io/typing-svg)
+
 </div>
 
-## ?? About Me
+---
 
-🎓 **Software Engineering Student** at Université Protestante de Lubumbashi  
-💼 **CEO & Founder** of [EJYISOFT](https://ejyisoft.onrender.com)  
-🌍 Based in **Lubumbashi, DR Congo**  
-💡 Passionate about **AI, ML, and innovative tech solutions**  
-📱 Community Manager for **AfroSoul Lab** YouTube channel
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering Student at **Université Protestante de Lubumbashi (UPL)**
+- 💼 **CEO & Founder** of [EJYISOFT](https://ejyisoft.onrender.com)
+- 🌍 Based in **Lubumbashi, DR Congo**
+- 🤖 Interested in **AI/ML**, developer tools, and product-driven engineering
+- 📱 Community Manager for **AfroSoul Lab** (YouTube)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -27,107 +31,128 @@
 
 ### Frameworks & Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-0173B3?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Customtkinter](https://img.shields.io/badge/Customtkinter-000000?style=for-the-badge&logo=customtkinter&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-000000?style=for-the-badge&logo=tkinter&logoColor=white)
-![FastApi](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-222222?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases & Backend
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Platforms
+### AI / Identity / Tools
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-5A67D8?style=for-the-badge&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Amazon%20Cognito-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![WorkOS](https://img.shields.io/badge/WorkOS-0A0A0A?style=for-the-badge&logoColor=white)
+
+### Platforms & Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Botpress](https://img.shields.io/badge/Botpress-000000?style=for-the-badge&logo=botpress&logoColor=white)
-![VoiceFlow](https://img.shields.io/badge/VoiceFlow-000000?style=for-the-badge&logo=voiceflow&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Google Developer Program](https://img.shields.io/badge/Google%20Developer%20Program-000000?style=for-the-badge&logo=google-developer-program&logoColor=white)
-![DataCamp](https://img.shields.io/badge/DataCamp-000000?style=for-the-badge&logo=datacamp&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=udemy&logoColor=white)
-![Cursa](https://img.shields.io/badge/Cursa-000000?style=for-the-badge&logo=cursa&logoColor=white)
-![Trace +](https://img.shields.io/badge/Trace%20%2B-000000?style=for-the-badge&logo=trace%20%2B&logoColor=white)
-![OpenClassroom](https://img.shields.io/badge/OpenClassroom-000000?style=for-the-badge&logo=openclassroom&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 
-
+---
 
 ## 🎯 Current Focus
 
-🔭 **Currently working on:** *BETAI* - An AI-powered football prediction mobile app  
-🌱 **Learning:** Advanced Machine Learning and Mobile development.  
-👯 **Open to collaborate on:** AI/ML projects, Flutter apps, and open-source initiatives  
-💬 **Ask me about:** Python, Flutter, AI, Chatbots, Firebase, and Supabase  
-⚡ **Fun fact:** I created my first YouTube channel as a Community Manager!
+- 🔭 Building **BETAI** — an AI-powered mobile app for football prediction
+- 🌱 Learning more about **advanced ML**, model deployment, and scalable backend systems
+- 🤝 Open to collaboration on **AI/ML**, **Flutter**, and practical open-source projects
+- 💬 Topics I enjoy: Python, Flutter, chatbot systems, Supabase/Firebase integrations, product strategy
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomusumba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jomusumba&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jomusumba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=jomusumba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=jomusumba&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
-## 🏆 Featured Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomusumba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</div>
 
-### ⚽  BETAI
-AI-powered mobile application for football match predictions using Machine Learning
-- **Status:** 🛞  In Development
+---
+
+## 🏆 Selected Projects & Achievements
+
+### ⚽ BETAI
+AI-powered mobile app for football match prediction.
+
+- **Role:** Product builder / developer
+- **Status:** 🛠️ In development
 
 ### 🏫 GSchool
-Open-source school management system for student enrollment and payment tracking
+Open-source school management system for enrollment and payment tracking.
+
 - **Tech:** Python, SQLite, Supabase, SMTP
-- **Status:** ✅ Open Source
+- **Status:** ✅ Open source
 
 ### 💬 UPLBOT
-Intelligent chatbot for Université Protestante de Lubumbashi (UPL). 
-- **Tech:** Python, Gemini, FastApi, Web Socket, Supabase
-- **Status:** ✅ Open Source
+Chatbot project for Université Protestante de Lubumbashi (UPL).
+
+- **Tech:** Python, Gemini, FastAPI, WebSocket, Supabase
+- **Status:** ✅ Active project
 
 ### 💎 NEXORA
-A social network that connects buyers and sellers of precious stones.
-- **Status:** 🛞  In development
+Platform concept connecting buyers and sellers of precious stones.
+
+- **Status:** 🛠️ In development
 
 ### 🎥 JOYANN DOUBLING
-The idea is to work on dubbing movies with AI and have a better rendering than traditional dubbing.
-- **Status**  In development
+AI-assisted movie dubbing initiative focused on better natural rendering.
 
-### 💻 ATDI  MANAGEMENT
-Management software for the NGO ATDI(Action pour le développement et le travail intégral). 
--  **Status** ✅ Deployed
+- **Status:** 🧪 Research & prototyping
 
+### 💻 ATDI MANAGEMENT
+Management software for the NGO **ATDI**.
+
+- **Status:** ✅ Deployed
+
+### 🌐 Personal Website
+My portfolio and online presence.
+
+- **Link:** [jomusumba.me](https://jomusumba.me/)
+- **Status:** ✅ Online
+
+---
 
 ## 🎓 Certifications
 
-✅ Python - Udemy  
-✅ MySQL - Cursa  
-✅ Microsoft Word - Cursa  
-✅ "La tech c'est du concret" - Trace+
-✅ Flutter - Cursa
+- ✅ Python — Udemy
+- ✅ MySQL — Cursa
+- ✅ Microsoft Word — Cursa
+- ✅ Flutter — Cursa
+- ✅ “La tech c'est du concret” — Trace+
 
-## 🌐 Connect with Me
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomusumba)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jomusumba)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jomusumba1)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jomusumba)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jomusumba)
-  
-  **Website:** [jomusumba](https://jomusmumba.me)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomusumba)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jomusumba)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jomusumba1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jomusumba)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jomusumba)
+
+**Website:** [jomusumba.me](https://jomusumba.me/)
+
 </div>
+
+---
 
 ## 📈 Contribution Graph
 
@@ -136,22 +161,19 @@ Management software for the NGO ATDI(Action pour le développement et le travail
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=jomusumba&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=jomusumba&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" />
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💖 Thanks for visiting my profile!
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jomusumba&color=00aaff&style=for-the-badge&label=PROFILE+VIEWS)
-  
-  **Made with ❤️ by Jonathan MUSUMBA**
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=100&section=footer)
-  
-</div>
 
+### 💖 Thanks for visiting my profile
+
+![Profile Views](https://komarev.com/ghpvc/?username=jomusumba&color=00aaff&style=for-the-badge&label=PROFILE+VIEWS)
+
+**Made with ❤️ by Jonathan MUSUMBA**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=110&section=footer)
+
+</div>
