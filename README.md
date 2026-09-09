@@ -1,5 +1,3 @@
-# Hi there, I'm Jonathan MUSUMBA 👋
-
 <div align="center">
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=220&section=header&text=Jonathan%20MUSUMBA&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Builder%20in%20AI%20%26%20Mobile&descAlignY=58&descSize=18)
@@ -7,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00AAFF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Python+%7C+Flutter+%7C+AI%2FML+Enthusiast;Building+useful+products+for+real-world+problems)](https://git.io/typing-svg)
 
 </div>
+
+# Hi there, I'm Jonathan MUSUMBA 👋
 
 ---
 
